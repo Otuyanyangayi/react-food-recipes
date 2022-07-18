@@ -3,3 +3,37 @@
     padding: 0%;
     box-sizing: border-box;
 }
+body{
+    background-color: black;
+}
+.heading h1{
+    color:white;
+    font-size: 48px;
+    font-weight:900;
+    letter-spacing: 1px;
+    padding-top:2rem;
+    text-align: center;
+    text-shadow: 3px 6px rgba(50,50,70,0.7);
+}
+.heading h4{
+    color:white;
+    text-align: center;
+}
+.searchBox{
+    text-align: center;
+    margin:3rem;
+   
+}
+.search-bar{
+    width:400px;
+    height:40px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    padding: 0.3rem 1rem;
+}
+.notSearch{
+    font-size: 35px;
+    color:white;
+    font-weight:900;
+}
